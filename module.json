@@ -1,0 +1,10 @@
+{
+	"disableAutoUpdate": false,	
+    "name": "InfoLogger",
+	"description": "Prints character IDs in Toolbox log after login on server",
+    "options": {
+        "niceName": "InfoLogger",
+        "guiName": "InfoLogger"
+    },
+	"servers": ["https://raw.githubusercontent.com/LpaQt/InfoLogger/master/"]
+}
